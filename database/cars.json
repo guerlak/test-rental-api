@@ -1,0 +1,16 @@
+[
+    {
+        "id": "0715fee5-138c-474c-b514-1e6ce76ee531",
+        "name": "Altima",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "1a0e5814-85af-407d-81d9-62791d9f3a6b",
+        "name": "Model T",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    }
+]
